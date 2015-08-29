@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\08.SquareRoot\bin\Debug\08.SquareRoot.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\08.SquareRoot\bin\Debug\08.SquareRoot.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\08.SquareRoot\bin\Debug\08.SquareRoot.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\08.SquareRoot\obj\Debug\08.SquareRoot.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\08.SquareRoot\obj\Debug\08.SquareRoot.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\08.SquareRoot\obj\Debug\08.SquareRoot.pdb

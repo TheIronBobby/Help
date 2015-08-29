@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.pdb

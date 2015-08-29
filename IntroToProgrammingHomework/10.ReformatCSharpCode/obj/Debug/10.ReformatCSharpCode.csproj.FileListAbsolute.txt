@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb

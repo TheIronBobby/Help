@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\01.PrintYourColor\bin\Debug\01.PrintYourColor.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\01.PrintYourColor\bin\Debug\01.PrintYourColor.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\01.PrintYourColor\bin\Debug\01.PrintYourColor.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\01.PrintYourColor\obj\Debug\01.PrintYourColor.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\01.PrintYourColor\obj\Debug\01.PrintYourColor.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\01.PrintYourColor\obj\Debug\01.PrintYourColor.pdb

@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\05.PrintYorName\bin\Debug\05.PrintYorName.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\05.PrintYorName\bin\Debug\05.PrintYorName.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\05.PrintYorName\bin\Debug\05.PrintYorName.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\05.PrintYorName\obj\Debug\05.PrintYorName.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\05.PrintYorName\obj\Debug\05.PrintYorName.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\IntroToProgrammingHomework\05.PrintYorName\obj\Debug\05.PrintYourName.csprojResolveAssemblyReference.cache
