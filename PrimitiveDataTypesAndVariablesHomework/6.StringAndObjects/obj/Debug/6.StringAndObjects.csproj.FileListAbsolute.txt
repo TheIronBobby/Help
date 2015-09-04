@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\6.StringAndObjects\bin\Debug\6.StringAndObjects.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\6.StringAndObjects\bin\Debug\6.StringAndObjects.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\6.StringAndObjects\bin\Debug\6.StringAndObjects.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\6.StringAndObjects\obj\Debug\6.StringAndObjects.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\6.StringAndObjects\obj\Debug\6.StringAndObjects.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\6.StringAndObjects\obj\Debug\6.StringAndObjects.pdb

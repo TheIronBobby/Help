@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\bin\Debug\1.DeclareVariables.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\obj\Debug\1.DeclareVariables.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\obj\Debug\1.DeclareVariables.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\1.DeclareVariables\obj\Debug\1.DeclareVariables.pdb

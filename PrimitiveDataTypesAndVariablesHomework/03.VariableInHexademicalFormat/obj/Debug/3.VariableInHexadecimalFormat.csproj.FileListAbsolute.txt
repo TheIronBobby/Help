@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexademicalFormat\bin\Debug\03.VariableInHexademicalFormat.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexademicalFormat\bin\Debug\03.VariableInHexademicalFormat.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexademicalFormat\bin\Debug\03.VariableInHexademicalFormat.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexademicalFormat\obj\Debug\3.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexademicalFormat\obj\Debug\03.VariableInHexademicalFormat.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\03.VariableInHexademicalFormat\obj\Debug\03.VariableInHexademicalFormat.pdb

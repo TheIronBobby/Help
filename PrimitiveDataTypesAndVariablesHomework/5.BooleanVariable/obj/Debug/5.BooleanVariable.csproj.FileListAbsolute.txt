@@ -1,0 +1,5 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\5.BooleanVariable\bin\Debug\5.BooleanVariable.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\5.BooleanVariable\obj\Debug\5.BooleanVariable.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\5.BooleanVariable\obj\Debug\5.BooleanVariable.pdb

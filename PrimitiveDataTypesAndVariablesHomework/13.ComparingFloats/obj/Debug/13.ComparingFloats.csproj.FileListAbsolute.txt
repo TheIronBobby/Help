@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\13.ComparingFloats\obj\Debug\13.ComparingFloats.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\PrimitiveDataTypesAndVariablesHomework\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb
