@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\05.FormatingNumbers\bin\Debug\05.FormatingNumbers.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\05.FormatingNumbers\bin\Debug\05.FormatingNumbers.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\05.FormatingNumbers\bin\Debug\05.FormatingNumbers.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\05.FormatingNumbers\obj\Debug\05.FormatingNumbers.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\05.FormatingNumbers\obj\Debug\05.FormatingNumbers.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\05.FormatingNumbers\obj\Debug\05.FormatingNumbers.pdb

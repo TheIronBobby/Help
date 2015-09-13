@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\10.FibunacciNumbers\bin\Debug\10.FibunacciNumbers.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\10.FibunacciNumbers\bin\Debug\10.FibunacciNumbers.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\10.FibunacciNumbers\bin\Debug\10.FibunacciNumbers.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\10.FibunacciNumbers\obj\Debug\10.FibunacciNumbers.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\10.FibunacciNumbers\obj\Debug\10.FibunacciNumbers.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\10.FibunacciNumbers\obj\Debug\10.FibunacciNumbers.pdb

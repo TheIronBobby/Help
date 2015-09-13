@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb

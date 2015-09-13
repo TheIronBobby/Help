@@ -1,0 +1,3 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\04.CirclePerimeterAndArea\bin\Debug\04.CirclePerimeterAndArea.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\04.CirclePerimeterAndArea\obj\Debug\04.CirclePerimeterAndArea.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\04.CirclePerimeterAndArea\obj\Debug\04.CirclePerimeterAndArea.pdb

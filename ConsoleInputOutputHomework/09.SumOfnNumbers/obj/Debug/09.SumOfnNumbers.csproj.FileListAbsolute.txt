@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\09.SumOfnNumbers\bin\Debug\09.SumOfnNumbers.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\09.SumOfnNumbers\bin\Debug\09.SumOfnNumbers.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\09.SumOfnNumbers\bin\Debug\09.SumOfnNumbers.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\09.SumOfnNumbers\obj\Debug\09.SumOfnNumbers.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\09.SumOfnNumbers\obj\Debug\09.SumOfnNumbers.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConsoleInputOutputHomework\09.SumOfnNumbers\obj\Debug\09.SumOfnNumbers.pdb
