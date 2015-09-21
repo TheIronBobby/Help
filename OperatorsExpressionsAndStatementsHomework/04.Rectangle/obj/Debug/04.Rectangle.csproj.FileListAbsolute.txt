@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\04.Rectangle\bin\Debug\04.Rectangle.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\04.Rectangle\bin\Debug\04.Rectangle.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\04.Rectangle\bin\Debug\04.Rectangle.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\04.Rectangle\obj\Debug\04.Rectangle.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\04.Rectangle\obj\Debug\04.Rectangle.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\04.Rectangle\obj\Debug\04.Rectangle.pdb

@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb

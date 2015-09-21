@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\07.PointInACircle\obj\Debug\07.PointInACircle.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\07.PointInACircle\obj\Debug\07.PointInACircle.pdb

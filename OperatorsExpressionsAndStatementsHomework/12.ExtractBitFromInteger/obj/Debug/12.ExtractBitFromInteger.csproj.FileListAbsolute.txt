@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb

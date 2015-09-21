@@ -1,0 +1,5 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\02.GravityOnTheMoon\bin\Debug\02.GravityOnTheMoon.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\02.GravityOnTheMoon\bin\Debug\02.GravityOnTheMoon.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\02.GravityOnTheMoon\bin\Debug\02.GravityOnTheMoon.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\02.GravityOnTheMoon\obj\Debug\02.GravityOnTheMoon.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\02.GravityOnTheMoon\obj\Debug\02.GravityOnTheMoon.pdb

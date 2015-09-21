@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\11.BitwiseExtractBitNumber3\bin\Debug\11.BitwiseExtractBitNumber3.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\11.BitwiseExtractBitNumber3\bin\Debug\11.BitwiseExtractBitNumber3.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\11.BitwiseExtractBitNumber3\bin\Debug\11.BitwiseExtractBitNumber3.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\11.BitwiseExtractBitNumber3\obj\Debug\11.BitwiseExtractBitNumber3.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\11.BitwiseExtractBitNumber3\obj\Debug\11.BitwiseExtractBitNumber3.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\11.BitwiseExtractBitNumber3\obj\Debug\11.BitwiseExtractBitNumber3.pdb

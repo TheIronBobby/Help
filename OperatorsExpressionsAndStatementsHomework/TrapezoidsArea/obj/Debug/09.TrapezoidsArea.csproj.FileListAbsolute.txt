@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\TrapezoidsArea\bin\Debug\TrapezoidsArea.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\TrapezoidsArea\bin\Debug\TrapezoidsArea.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\TrapezoidsArea\bin\Debug\TrapezoidsArea.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\TrapezoidsArea\obj\Debug\09.TrapezoidsArea.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\TrapezoidsArea\obj\Debug\TrapezoidsArea.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\TrapezoidsArea\obj\Debug\TrapezoidsArea.pdb

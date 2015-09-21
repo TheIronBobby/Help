@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\08.PrimeNuberCheck\bin\Debug\08.PrimeNuberCheck.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\08.PrimeNuberCheck\bin\Debug\08.PrimeNuberCheck.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\08.PrimeNuberCheck\bin\Debug\08.PrimeNuberCheck.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\08.PrimeNuberCheck\obj\Debug\08.PrimeNuberCheck.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\08.PrimeNuberCheck\obj\Debug\08.PrimeNuberCheck.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\OperatorsExpressionsAndStatementsHomework\08.PrimeNuberCheck\obj\Debug\08.PrimeNuberCheck.pdb
