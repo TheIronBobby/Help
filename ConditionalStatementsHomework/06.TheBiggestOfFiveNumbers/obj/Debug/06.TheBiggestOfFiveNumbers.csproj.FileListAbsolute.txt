@@ -1,0 +1,5 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConditionalStatementsHomework\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConditionalStatementsHomework\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConditionalStatementsHomework\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConditionalStatementsHomework\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConditionalStatementsHomework\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.pdb

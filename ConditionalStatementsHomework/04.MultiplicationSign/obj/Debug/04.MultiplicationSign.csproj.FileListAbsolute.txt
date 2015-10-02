@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConditionalStatementsHomework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConditionalStatementsHomework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConditionalStatementsHomework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConditionalStatementsHomework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConditionalStatementsHomework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ConditionalStatementsHomework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb
