@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\12.RandomizeNumberFrom1ToN\bin\Debug\12.RandomizeNumberFrom1ToN.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\12.RandomizeNumberFrom1ToN\bin\Debug\12.RandomizeNumberFrom1ToN.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\12.RandomizeNumberFrom1ToN\bin\Debug\12.RandomizeNumberFrom1ToN.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\12.RandomizeNumberFrom1ToN\obj\Debug\12.RandomizeNumberFrom1ToN.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\12.RandomizeNumberFrom1ToN\obj\Debug\12.RandomizeNumberFrom1ToN.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\12.RandomizeNumberFrom1ToN\obj\Debug\12.RandomizeNumberFrom1ToN.pdb

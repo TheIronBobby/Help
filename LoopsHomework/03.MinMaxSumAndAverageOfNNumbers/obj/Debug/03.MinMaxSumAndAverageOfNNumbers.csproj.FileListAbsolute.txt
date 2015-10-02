@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb

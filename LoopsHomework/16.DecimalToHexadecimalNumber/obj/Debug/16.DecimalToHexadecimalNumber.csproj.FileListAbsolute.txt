@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.pdb

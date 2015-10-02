@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.pdb
