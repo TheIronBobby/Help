@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\02.SortingNumbers\bin\Debug\02.SortingNumbers.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\02.SortingNumbers\bin\Debug\02.SortingNumbers.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\02.SortingNumbers\bin\Debug\02.SortingNumbers.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\02.SortingNumbers\obj\Debug\02.SortingNumbers.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\02.SortingNumbers\obj\Debug\02.SortingNumbers.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\02.SortingNumbers\obj\Debug\02.SortingNumbers.pdb

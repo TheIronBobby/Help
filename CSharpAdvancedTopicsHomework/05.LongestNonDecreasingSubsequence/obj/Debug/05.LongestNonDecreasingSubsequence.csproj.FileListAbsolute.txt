@@ -1,0 +1,1 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\05.LongestNonDecreasingSubsequence\bin\Debug\05.LongestNonDecreasingSubsequence.exe.config

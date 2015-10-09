@@ -1,0 +1,5 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\08.LongestWordInAText\bin\Debug\08.LongestWordInAText.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\08.LongestWordInAText\bin\Debug\08.LongestWordInAText.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\08.LongestWordInAText\bin\Debug\08.LongestWordInAText.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\08.LongestWordInAText\obj\Debug\08.LongestWordInAText.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\08.LongestWordInAText\obj\Debug\08.LongestWordInAText.pdb

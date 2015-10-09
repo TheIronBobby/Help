@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\04.MatrixOfPalindromes\bin\Debug\04.MatrixOfPalindromes.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\04.MatrixOfPalindromes\bin\Debug\04.MatrixOfPalindromes.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\04.MatrixOfPalindromes\bin\Debug\04.MatrixOfPalindromes.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\04.MatrixOfPalindromes\obj\Debug\04.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\04.MatrixOfPalindromes\obj\Debug\04.MatrixOfPalindromes.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\CSharpAdvancedTopicsHomework\04.MatrixOfPalindromes\obj\Debug\04.MatrixOfPalindromes.pdb
