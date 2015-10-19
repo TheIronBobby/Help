@@ -1,0 +1,5 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam30AugustProblem4\bin\Debug\Exam30AugustProblem4.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam30AugustProblem4\bin\Debug\Exam30AugustProblem4.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam30AugustProblem4\bin\Debug\Exam30AugustProblem4.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam30AugustProblem4\obj\Debug\Exam30AugustProblem4.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam30AugustProblem4\obj\Debug\Exam30AugustProblem4.pdb

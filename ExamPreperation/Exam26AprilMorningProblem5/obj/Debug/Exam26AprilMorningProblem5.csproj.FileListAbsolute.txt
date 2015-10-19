@@ -1,0 +1,5 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam26AprilMorningProblem5\bin\Debug\Exam26AprilMorningProblem5.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam26AprilMorningProblem5\bin\Debug\Exam26AprilMorningProblem5.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam26AprilMorningProblem5\bin\Debug\Exam26AprilMorningProblem5.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam26AprilMorningProblem5\obj\Debug\Exam26AprilMorningProblem5.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam26AprilMorningProblem5\obj\Debug\Exam26AprilMorningProblem5.pdb

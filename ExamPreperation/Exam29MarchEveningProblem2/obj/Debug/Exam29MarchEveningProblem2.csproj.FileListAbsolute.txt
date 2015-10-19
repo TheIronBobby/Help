@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam29MarchEveningProblem2\bin\Debug\Exam29MarchEveningProblem2.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam29MarchEveningProblem2\bin\Debug\Exam29MarchEveningProblem2.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam29MarchEveningProblem2\bin\Debug\Exam29MarchEveningProblem2.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam29MarchEveningProblem2\obj\Debug\Exam29MarchEveningProblem2.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam29MarchEveningProblem2\obj\Debug\Exam29MarchEveningProblem2.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\ExamPreperation\Exam29MarchEveningProblem2\obj\Debug\Exam29MarchEveningProblem2.pdb
