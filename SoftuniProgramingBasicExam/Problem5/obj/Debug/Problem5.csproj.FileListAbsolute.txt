@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\SoftuniProgramingBasicExam\Problem5\bin\Debug\Problem5.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\SoftuniProgramingBasicExam\Problem5\bin\Debug\Problem5.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\SoftuniProgramingBasicExam\Problem5\bin\Debug\Problem5.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\SoftuniProgramingBasicExam\Problem5\obj\Debug\Problem5.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\Uprajneniq-proekti\SoftuniProgramingBasicExam\Problem5\obj\Debug\Problem5.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\SoftuniProgramingBasicExam\Problem5\obj\Debug\Problem5.pdb

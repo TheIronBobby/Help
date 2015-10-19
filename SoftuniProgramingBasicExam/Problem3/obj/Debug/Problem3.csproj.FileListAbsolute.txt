@@ -1,0 +1,5 @@
+D:\Downloads\SoftUni\Uprajneniq-proekti\SoftuniProgramingBasicExam\Problem3\bin\Debug\Problem3.exe.config
+D:\Downloads\SoftUni\Uprajneniq-proekti\SoftuniProgramingBasicExam\Problem3\bin\Debug\Problem3.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\SoftuniProgramingBasicExam\Problem3\bin\Debug\Problem3.pdb
+D:\Downloads\SoftUni\Uprajneniq-proekti\SoftuniProgramingBasicExam\Problem3\obj\Debug\Problem3.exe
+D:\Downloads\SoftUni\Uprajneniq-proekti\SoftuniProgramingBasicExam\Problem3\obj\Debug\Problem3.pdb
